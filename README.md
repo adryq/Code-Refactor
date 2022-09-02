@@ -8,7 +8,7 @@ Made Horiseon's website more accessible by:
 - Including comments before each element or section of the page
 
 
-Deployed Website: https://adryq.github.io/Code-Refactor/
+Deployed Website: 
 
 
 
